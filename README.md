@@ -1,0 +1,1 @@
+# k8s-tools-aws-cli-docker-image
